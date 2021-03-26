@@ -1,0 +1,10 @@
+C:\Users\gonza\source\repos\SistemaVentas\bin\Release\SistemaVentas.exe.config
+C:\Users\gonza\source\repos\SistemaVentas\bin\Release\SistemaVentas.exe
+C:\Users\gonza\source\repos\SistemaVentas\bin\Release\SistemaVentas.pdb
+C:\Users\gonza\source\repos\SistemaVentas\obj\Release\SistemaVentas.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\SistemaVentas\obj\Release\SistemaVentas.Form1.resources
+C:\Users\gonza\source\repos\SistemaVentas\obj\Release\SistemaVentas.Properties.Resources.resources
+C:\Users\gonza\source\repos\SistemaVentas\obj\Release\SistemaVentas.csproj.GenerateResource.cache
+C:\Users\gonza\source\repos\SistemaVentas\obj\Release\SistemaVentas.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\SistemaVentas\obj\Release\SistemaVentas.exe
+C:\Users\gonza\source\repos\SistemaVentas\obj\Release\SistemaVentas.pdb

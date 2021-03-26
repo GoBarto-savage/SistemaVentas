@@ -1,0 +1,10 @@
+C:\Users\gonza\source\repos\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\gonza\source\repos\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\gonza\source\repos\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\gonza\source\repos\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\SistemaVentas\obj\Debug\SistemaVentas.Form1.resources
+C:\Users\gonza\source\repos\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+C:\Users\gonza\source\repos\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+C:\Users\gonza\source\repos\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\gonza\source\repos\SistemaVentas\obj\Debug\SistemaVentas.pdb
